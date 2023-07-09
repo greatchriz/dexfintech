@@ -13,7 +13,7 @@
                 content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
             />
     
-            <title>Lineone - Sign In v2</title>
+            <title>Dexfintech | Authentication</title>
             <link
                 rel="icon"
                 type="image/png"
@@ -74,13 +74,10 @@
                         class="flex items-center space-x-2"
                     >
                         <img
-                            class="h-12 w-12"
-                            src="images/app-logo.svg"
+                            class=""
+                            src="images/logo.png"
                             alt="logo"
                         />
-                        <p class="text-xl font-semibold uppercase text-slate-700 dark:text-navy-100">
-                            lineone
-                        </p>
                     </a>
                 </div>
                 <div class="hidden w-full place-items-center lg:grid">
