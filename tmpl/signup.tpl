@@ -4,14 +4,14 @@
     <div class="text-center">
       <a href="?a=home">
         <img
-          class="mx-auto h-16 w-16 lg:hidden"
-          src="images/app-logo.svg"
+          class="mx-auto lg:hidden"
+          src="images/logo.png"
           alt="logo"
         />
       </a>
       <div class="mt-4">
         <h2 class="text-2xl font-semibold text-slate-600 dark:text-navy-100">
-          Welcome To Lineone
+          Welcome To DexFintech
         </h2>
         <p class="text-slate-400 dark:text-navy-300">
           Please sign up to continue

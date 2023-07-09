@@ -5,8 +5,8 @@
       <div class="text-center">
         <a href="?a=home">
           <img
-            class="mx-auto h-16 w-16 lg:hidden"
-            src="images/app-logo.svg"
+            class="mx-auto lg:hidden"
+            src="images/logo.png"
             alt="logo"
           />
         </a>
