@@ -127,11 +127,11 @@ $_smarty_tpl->properties['nocache_hash'] = '151933081764a7e45e620d16_45141513';
 
                                         <ul class="menu-btns">
                                             <li><a
-                                                    href="https://client.dexfintech.net/register"
+                                                    href="/?a=signup"
                                                     class="btn btn-md btn-auto btn-secondary btn-outline no-change"
                                                 ><span>Sign Up</span></a></li>
                                             <li><a
-                                                    href="https://client.dexfintech.net/login"
+                                                    href="/?a=login"
                                                     class="btn btn-md btn-auto btn-secondary no-change focus"
                                                 ><span>Login</span></a></li>
                                         </ul>

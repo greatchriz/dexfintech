@@ -107,7 +107,7 @@
                                             </div>
                                             <div class="cpn-btns">
                                                 <ul class="btn-grp">
-                                                    <li><a class="btn btn-lg btn-secondary" href="https://client.dexfintech.net/register">Sign Up</a></li>
+                                                    <li><a class="btn btn-lg btn-secondary" href="/?a=signup">Sign Up</a></li>
                                                     <li><a class="btn btn-lg btn-primary btn-outline" href="https://drive.google.com/file/d/12ni8yTUiJDG8-XJKNG-4sOiOvXMPP135/view?usp=sharing">White Paper</a></li>
                                                 </ul>
                                             </div>
@@ -174,7 +174,7 @@
                                         <li class=""><em class="icon icon-bg icon-bg-xl bg-theme-grad-s2 icon-md ikon ikon-eth"></em></li>
                                         <li class=""><em class="icon icon-bg icon-bg-lg bg-theme-grad-s2 icon-md ikon ikon-btc"></em></li>
                                     </ul>
-                                    <a href="https://client.dexfintech.net/register" class="btn btn-secondary btn-lg">Sign Up Now</a>
+                                    <a href="/?a=signup" class="btn btn-secondary btn-lg">Sign Up Now</a>
                                 </div>
                             </div>
                         </div>
@@ -213,7 +213,7 @@
                                         </li>
                                     </ul>
                                     <ul class="btn-grp pt-4">
-                                        <li><a class="btn btn-lg btn-secondary" href="https://client.dexfintech.net/register">Sign Up</a></li>
+                                        <li><a class="btn btn-lg btn-secondary" href="/?a=signup">Sign Up</a></li>
                                         <li><a class="btn btn-lg btn-primary btn-outline" href="https://drive.google.com/file/d/12ni8yTUiJDG8-XJKNG-4sOiOvXMPP135/view?usp=sharing">White Paper</a></li>
                                     </ul>
                                 </div>
@@ -254,7 +254,7 @@
                                         </li>
                                     </ul>
                                     <ul class="btn-grp pt-4">
-                                        <li><a class="btn btn-lg btn-secondary" href="https://client.dexfintech.net/register">Sign Up</a></li>
+                                        <li><a class="btn btn-lg btn-secondary" href="/?a=signup">Sign Up</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -294,7 +294,7 @@
                                         </li>
                                     </ul>
                                     <ul class="btn-grp pt-4">
-                                        <li><a class="btn btn-lg btn-secondary" href="https://client.dexfintech.net/register">Sign Up</a></li>
+                                        <li><a class="btn btn-lg btn-secondary" href="/?a=signup">Sign Up</a></li>
                                     </ul>
                                 </div>
                             </div>
