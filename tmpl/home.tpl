@@ -414,15 +414,7 @@
                                 <img src="images/logo-full-white.png" srcset="images/logo-full-white2x.png 2x" alt="logo">
                             </a>
                         </div>
-                        <div class="col-lg-6 col-md-8">
-                            <div class="copyright-text">
-                                <ul class="d-flex justify-content-between align-items-center flex-wrap flex-md-nowrap">
-                                    <li><a href="https://client.dexfintech.net/page/terms-and-condition">Terms of Service</a></li>
-                                    <li><a href="https://client.dexfintech.net/page/privacy-policy">Privacy Policy</a></li>
-                                    <li><p>©2022 DexFintech, Inc. All Rights Reserved</p></li>
-                                </ul>
-                            </div>
-                        </div>
+                      
                     </div>
                 </div>
             </div>
